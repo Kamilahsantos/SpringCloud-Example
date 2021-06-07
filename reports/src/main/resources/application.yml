@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 'REPORTS API'
+
+server:
+  port: 5000
+
